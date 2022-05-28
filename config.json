@@ -89,7 +89,7 @@
       "action": "output",
       "args": {
         "outputName": "Country.mmdb",
-        "wantedList": ["cn", "private", "google", "telegram", "twitter"]
+        "wantedList": ["cn", "private", "google", "telegram"]
       }
     },
     {
