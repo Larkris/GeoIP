@@ -77,6 +77,10 @@
       "args": {
         "inputDir": "./data"
       }
+    },
+    {
+      "type": "private",
+      "action": "add"
     }
   ],
   "output": [
@@ -85,7 +89,7 @@
       "action": "output",
       "args": {
         "outputName": "Country.mmdb",
-        "wantedList": ["cn", "google", "telegram", "twitter"]
+        "wantedList": ["cn", "private", "google", "telegram", "twitter"]
       }
     },
     {
